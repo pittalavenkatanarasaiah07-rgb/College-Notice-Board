@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567808631733",
+    "project_id": "college-notice-board-91242",
+    "storage_bucket": "college-notice-board-91242.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567808631733:android:4d388efc7a780dd8d62ffc",
+        "android_client_info": {
+          "package_name": "com.college.college_notice_board"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXfBQpNqd95JNOCxFhEjSGZa613UhVYxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
